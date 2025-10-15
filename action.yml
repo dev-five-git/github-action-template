@@ -3,7 +3,7 @@ description: Github Action Template
 author: JeongMin Oh
 
 branding:
-  icon: file-text
+  icon: file
   color: purple
 
 inputs:
